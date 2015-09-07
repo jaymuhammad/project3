@@ -1,0 +1,67 @@
+
+body {
+
+	background-image: url("http://hiddenuniversemovie.com/wp-content/uploads/2013/06/1.-Carina-Nebula-HIDDEN-UNIVERSE.jpg");
+	repeat: no-repeat;
+}
+
+
+.main-header {
+	background-color: white;
+	padding-top: 120px;
+}
+
+img {
+	float: right;
+	margin-bottom: 100px;
+}
+
+
+.navbar {
+	padding-bottom: 27px;
+}
+
+
+
+
+.navbar-text {
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+
+h1 {
+	padding-top: 15px;
+}
+
+h3 {
+	color: white;
+}
+
+
+p {
+	color: black;
+	text-decoration: ;
+
+}
+
+.logo-icon {
+	float: right;
+}
+
+
+
+h2 {
+	margin-left: 20px;
+}
+
+.btn {
+	margin-left: 20px;
+}
+
+//*.main-footer {
+	 padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 15px white;
+}
