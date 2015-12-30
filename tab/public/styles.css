@@ -1,0 +1,129 @@
+
+
+body {
+
+	background-image: url("http://hiddenuniversemovie.com/wp-content/uploads/2013/06/1.-Carina-Nebula-HIDDEN-UNIVERSE.jpg");
+	
+}
+
+
+
+  @media (max-width: 1025px) {
+  	#name, #lastname, #email {
+  		display: block;
+  	}
+ 
+  		
+  	}
+  }
+
+  @media (min-width: 1024px) {
+  	#name, #lastname, #email {
+  		display: inline-block;
+  	}
+ 
+  		
+  	}
+  }
+
+
+.main-header {
+	background-color: transparent;
+	padding-top: 120px;
+}
+
+img {
+	float: right;
+	margin-bottom: 100px;
+}
+
+
+.navbar {
+	padding-bottom: 27px;
+}
+
+
+
+
+.navbar-text {
+	color: #76FF03;
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+
+fieldset {
+	content: inherit;
+	
+
+}
+
+
+h1 {
+	color: white;
+	padding-top: 15px;
+	padding-left: 15px;
+}
+
+h2 {
+	padding-left: 25px;
+	
+}
+
+h3 {
+	color: #76FF03;
+	padding-left: 25px;
+}
+
+.subtitles {
+	color: white;
+}
+
+
+
+.forminfo, {
+	color: white;
+}
+.text {
+	color: red;
+}
+
+p {
+	color: black;
+	text-decoration: ;
+
+}
+
+.logo-icon {
+	float: right;
+
+}
+
+
+
+
+.btn {
+	margin-left: 30px;
+}
+
+.jumbotron {
+	color: white;
+	background: transparent;
+}
+fieldset {
+	margin-left: 30px;
+
+}
+
+#myform {
+	margin-left: 50px;
+}
+
+
+
+//*.main-footer {
+	 padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 15px white;
+}
