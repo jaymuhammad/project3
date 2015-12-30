@@ -1,0 +1,27 @@
+<?php $__env->startSection('nav'); ?>
+    <div class="col-md-3">
+        
+            <li>
+                <a href="/welcome" class="<?php echo e(Request::is('welcome') ? 'active':''); ?>">
+                    <i class="fa fa-user"></i> 
+                    Home
+                </a>
+            </li>
+    ​
+            <li>
+                <a href="/explore" class="<?php echo e(Request::is('explore') ? 'active':''); ?>">
+                    <i class="fa fa-calendar"></i> 
+                    Explore
+                </a>
+            </li>
+    ​
+            <li>
+                <a href="/tabHub" class="<?php echo e(Request::is('tabHub') ? 'active':''); ?>">
+                    <i class="fa fa-gift"></i> 
+                    TabHub
+                </a>
+            </li>
+    ​
+            
+    </div>
+<?php $__env->stopSection(); ?>
